@@ -7,3 +7,6 @@ try {
 } catch (error) {
     console.log("Error de conexión a mongodb:" + error);
 }
+
+
+//Hola como estas 
