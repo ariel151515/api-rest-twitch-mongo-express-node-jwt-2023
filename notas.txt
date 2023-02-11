@@ -1,0 +1,12 @@
+=> Vamos a trabajar con el nuevo sistema de modulo import/export y no con require
+   (agregar al package.json  "type": "module",)
+
+   con module usar axios y no fecth
+
+   => https://bluuweb.github.io/desarrollo-web-bluuweb/21-03-api-rest/#primeros-pasos
+
+
+   (estudiar sesiones y cooquis)
+
+   Ultimo 1:44
+   https://www.youtube.com/watch?v=VrLvbzHVT9A
