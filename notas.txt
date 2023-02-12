@@ -10,3 +10,7 @@
 
    Ultimo 1:44
    https://www.youtube.com/watch?v=VrLvbzHVT9A
+
+
+   // Metodos de mongoose
+   https://mongoosejs.com/docs/queries.html

@@ -1,9 +1,9 @@
-import express, { json } from "express";
+import { Router } from "express";
 import { login, register } from "../controllers/auth.controller.js";
 import { body } from 'express-validator'
-const router = express.Router()
 import { validationResultExpress } from './../middlewares/validationResultExpress.js'
 
+const router = Router();
 
 // validacion con express-validator (.trim limpia de espacios)
 router.post('/register',
