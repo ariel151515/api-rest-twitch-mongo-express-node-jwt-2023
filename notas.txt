@@ -8,9 +8,16 @@
 
    (estudiar sesiones y cooquis)
 
-   Ultimo 1:44
+   Ultimo 2:58
    https://www.youtube.com/watch?v=VrLvbzHVT9A
+
+   Curso de Node.js + Express + MongoDB (parte #02) - Auth + Session + Passport + Rutas protegidas
+   https://www.youtube.com/watch?v=k6gaP1AK4nQ
 
 
    // Metodos de mongoose
    https://mongoosejs.com/docs/queries.html
+
+
+
+   / me quede en jwt, en tokenManager
