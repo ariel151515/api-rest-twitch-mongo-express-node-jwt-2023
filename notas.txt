@@ -8,7 +8,7 @@
 
    (estudiar sesiones y cooquis)
 
-   Ultimo 2:58
+   Ultimo 4:09  (Me quede en las kookies)
    https://www.youtube.com/watch?v=VrLvbzHVT9A
 
    Curso de Node.js + Express + MongoDB (parte #02) - Auth + Session + Passport + Rutas protegidas

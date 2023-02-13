@@ -59,4 +59,13 @@ export const login = async (req, res) => {
 }
 
 
+export const infoUser = async (req, res) => {
+    try {
+        const user = await User.findById(req.uid).lean()
+        return res.json({ user })
+    } catch (err) {
+        return res.status(500).json({ err: "error de server" })
+    }
+}
+
 
